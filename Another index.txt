@@ -1,0 +1,5 @@
+<!DOCTYPE>
+
+<html>
+<h1> just another index</h1>
+<html>
